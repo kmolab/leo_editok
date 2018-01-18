@@ -1,0 +1,3 @@
+[submodule "leo-editor"]
+	path = leo-editor
+	url = https://github.com/leo-editor/leo-editor
